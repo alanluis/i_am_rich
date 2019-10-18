@@ -1,6 +1,6 @@
-# i_am_rich
+# I Am Rich!
 
-A new Flutter project.
+A basic Flutter Native Android/IOS App that shows a simple diamond!
 
 ## Getting Started
 
